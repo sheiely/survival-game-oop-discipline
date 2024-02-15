@@ -9,7 +9,7 @@
 <div style='display:flex; flex-wrap: wrap;'>
   <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
   <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
-  <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
+  <img style='width: 700px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
 </div>
 
 
