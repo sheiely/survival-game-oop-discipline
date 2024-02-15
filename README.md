@@ -1,9 +1,10 @@
 <h1>What is it?</h1>
-<p>Hi, this is a project to conclusion course of my degree, a text-based survival game</p>
+<p>Hi, this is a project to conclusion course of my degree, a semi-textual survival game</p>
+<p>The most important aspect here is classes</p>
 <p></p>
 <hr>
 <h2>How use?</h2>
-<p>You can just clone and execute SurvivalGame.jar (need JRE 20 or superior)</p>
+<p>You can just clone and execute SurvivalGame.jar (need JRE 20 or higher)</p>
 
 <h5>Game pics</h5>
 <div style='display:flex; flex-wrap: wrap;'>
@@ -13,5 +14,3 @@
 </div>
 
 
-<h3>What this project used?</h3>
-<p>was used a Node.js backend API, atlas MongoDB, Socket.IO, and some dependencies.</p>
