@@ -6,10 +6,10 @@
 <p>You can just clone and execute SurvivalGame.jar (need JRE 20 or superior)</p>
 
 <h5>Game pics</h5>
-<div style='display:flex'>
+<div style='display:flex; flex-wrap: wrap;'>
   <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
   <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
-  <img style='width: 300px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
+  <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
 </div>
 
 
