@@ -1,6 +1,6 @@
 <h1>What is it?</h1>
 <p>Hi, this is a project to conclusion course of my degree, a semi-textual survival game</p>
-<p>The most important aspect here is classes</p>
+
 <p></p>
 <hr>
 <h2>How use?</h2>
@@ -12,5 +12,6 @@
   <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
   <img style='width: 700px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
 </div>
-
+<p>The most important aspect here is classes, and I made a diagram to facilitate analysis</p>
+  <img style='width: 700px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
 
