@@ -7,9 +7,9 @@
 
 <h5>Game pics</h5>
 
-<img style='width: 400px' src="https://github.com/sheiely/clone-discord-project/blob/main/client/public/images/screenshot2.png">
-<img style='width: 400px' src="https://github.com/sheiely/clone-discord-project/blob/main/client/public/images/screenshot.png">
-<img style='width: 800px' src="https://github.com/sheiely/clone-discord-project/blob/main/client/public/images/screenshot3.png">
+<img style='width: 400px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
+<img style='width: 400px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
+<img style='width: 800px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">
 
 <h3>What this project used?</h3>
 <p>was used a Node.js backend API, atlas MongoDB, Socket.IO, and some dependencies.</p>
