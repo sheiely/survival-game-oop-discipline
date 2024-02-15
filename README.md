@@ -7,8 +7,8 @@
 
 <h5>Game pics</h5>
 
-<img style='width: 400px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
-<img style='width: 400px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
+<img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
+<img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
 <img style='width: 800px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">
 
 <h3>What this project used?</h3>
