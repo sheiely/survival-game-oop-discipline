@@ -12,7 +12,8 @@
   <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
   <img style='width: 700px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
 </div>
-<p>Diagram</p>
-<h5>The most important aspect here is classes, and I made a diagram to facilitate analysis</h5>
+<hr>
+<h2>Diagram</h2>
+<p>The most important aspect here is classes, and I made a diagram to facilitate analysis</p>
   <img style='width: 700px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/diagram.png">  
 
