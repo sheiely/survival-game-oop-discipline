@@ -6,10 +6,12 @@
 <p>You can just clone and execute SurvivalGame.jar (need JRE 20 or superior)</p>
 
 <h5>Game pics</h5>
+<div style='display:flex'>
+  <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
+  <img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
+  <img style='width: 300px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">  
+</div>
 
-<img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic1.png">
-<img style='width: 350px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic2.png">
-<img style='width: 300px' src="https://github.com/sheiely/suvival-game-poo-discipline/blob/main/images/pic3.png">
 
 <h3>What this project used?</h3>
 <p>was used a Node.js backend API, atlas MongoDB, Socket.IO, and some dependencies.</p>
